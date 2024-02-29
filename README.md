@@ -1,5 +1,4 @@
 # Call Centre Analysis - A Power BI Dashboard
-Hello everyone!!!!
 
 "Thrilled to share my Power BI dashboard on Call Centre Analysis 📊✨ Making use of data cleaning, data processing, and insightful with slicers, I've crafted a dynamic dashboard with the help of DAX functions."
 
